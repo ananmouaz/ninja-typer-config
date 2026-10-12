@@ -3,12 +3,12 @@
   <channel>
     <title>Ninja Typer</title>
     <item>
-      <title>Ninja Typer 2.12.0</title>
-      <pubDate>Mon, 12 Oct 2026 11:04:15 +0000</pubDate>
-      <sparkle:version>212</sparkle:version>
-      <sparkle:shortVersionString>2.12.0</sparkle:shortVersionString>
+      <title>Ninja Typer 2.14.0</title>
+      <pubDate>Mon, 12 Oct 2026 13:44:05 +0000</pubDate>
+      <sparkle:version>215</sparkle:version>
+      <sparkle:shortVersionString>2.14.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/ananmouaz/ninja-typer-config/releases/download/v2.12.0/NinjaTyper-2.12.0.dmg" sparkle:edSignature="LABu+tTEdHS5EJAY6bToAWjx+bR8E7d8ZFcRUQHmLFEIUUGzackNdMwNKLMcAfstGA+lMFOYmI1BNLgRAAMADA==" length="35734744" type="application/octet-stream"/>
+      <enclosure url="https://github.com/ananmouaz/ninja-typer-config/releases/download/v2.14.0/NinjaTyper-2.14.0.dmg" sparkle:edSignature="+2zESY0b84WwdNoC7+2jkEXUDjZR7QmKXOy9b2x06UNOXMkrgVNKO985ET7gB9sXpZq4Fl+GFzd95n/+XE64Bw==" length="36881061" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
